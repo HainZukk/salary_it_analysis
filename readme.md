@@ -85,15 +85,17 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 
 ## Estructura del proyecto
 
-Salary_analysis/
-├── data/
-│   ├── salaries.csv          # Datos crudos
-│   └── salaries.json         # Formato alternativo
-├── notebooks/
-│   ├── data_cleaning.ipynb   # Proceso de limpieza
-│   └── visualization.ipynb   # Análisis visual y EDA
-├── src/
-│   └── cleaning_function.py  # Funciones auxiliares de Python
-└── README.md                 # Documentación del proyecto
+## Estructura del Proyecto
 
+```text
+salary_analysis/
+├── data/
+│   ├── salaries.csv          # Dataset original
+│   └── salaries.json         # Dataset en formato JSON
+├── notebooks/
+│   ├── data_cleaning.ipynb   # Limpieza de datos
+│   └── visualization.ipynb   # Análisis y gráficos
+├── src/
+│   └── cleaning_function.py  # Funciones de procesamiento
+└── readme.md                 # Documentación del proyecto
 ```
