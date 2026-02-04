@@ -87,11 +87,13 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 
 Salary_analysis/
 ├── data/
-│   └── salaries.csv          # Dataset original
+│   ├── salaries.csv          # Datos crudos
+│   └── salaries.json         # Formato alternativo
 ├── notebooks/
-│   └── visualization.ipynb   # Notebook principal de análisis y gráficos
+│   ├── data_cleaning.ipynb   # Proceso de limpieza
+│   └── visualization.ipynb   # Análisis visual y EDA
 ├── src/
-│    └── cleaning_function.py  # Scripts de procesamiento                
+│   └── cleaning_function.py  # Funciones auxiliares de Python
 └── README.md                 # Documentación del proyecto
 
 ```
