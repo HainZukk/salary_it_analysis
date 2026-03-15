@@ -130,5 +130,4 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard_preview.png)
-
+[![Dashboard](dashboard/dashboard_preview.png)](dashboard/Salary_Dashboard.pdf)
