@@ -83,6 +83,8 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 * Análisis temporal de la evolución salarial.
 * Segmentación más detallada por tecnologías específicas.
 
+---
+
 ## Estructura del Proyecto
 
 ```text
@@ -123,3 +125,10 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
     ├── ⚙️ .gitignore
     └── 📝 readme.md
 ```
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard/dashboard_preview.png)
+
