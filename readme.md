@@ -8,6 +8,12 @@ El objetivo de este trabajo es analizar un dataset de salarios del sector IT/Dat
 
 ---
 
+## Dashboard Preview
+
+[![Dashboard](dashboard/dashboard_preview.png)](dashboard/Salary_Dashboard.pdf)
+
+---
+
 ## Objetivo del análisis
 
 El análisis busca responder preguntas clave relacionadas con:
@@ -44,6 +50,16 @@ El análisis se realizó utilizando **Python** y las siguientes bibliotecas:
 * `matplotlib` y `seaborn`: para la visualización de la información.
 
 Se aplicaron técnicas de filtrado, agrupamiento y agregación de datos (`groupby`, `value_counts`, `median`) para obtener métricas representativas. Las visualizaciones incluyen gráficos de barras, boxplots y countplots, priorizando la claridad y la correcta interpretación de los resultados.
+
+---
+
+## Herramientas utilizadas
+
+- Python
+- pandas
+- matplotlib
+- seaborn
+- Power BI
 
 ---
 
@@ -125,9 +141,3 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
     ├── ⚙️ .gitignore
     └── 📝 readme.md
 ```
-
----
-
-## Dashboard Preview
-
-[![Dashboard](dashboard/dashboard_preview.png)](dashboard/Salary_Dashboard.pdf)
