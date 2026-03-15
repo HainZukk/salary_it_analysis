@@ -121,7 +121,6 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 │   ├── 🐍 converters.py
 │   ├── 🐍 fetch_rates.py
 │   └── 🐍 get_rates.py
-├── ⚙️ ._readme.md
 ├── ⚙️ .gitignore
 └── 📝 readme.md
 ```
