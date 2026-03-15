@@ -86,19 +86,40 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 ## Estructura del Proyecto
 
 ```text
-├── data
-│   ├── salaries.csv
-│   ├── salaries.json
-│   └── salaries_cleaned.csv
-├── notebooks
-│   ├── data.ipynb
-│   ├── data_cleaning.ipynb
-│   └── visualization.ipynb
-├── src
-│   ├── cleaning_function.py
-│   ├── converters.py
-│   ├── fetch_rates.py
-│   └── get_rates.py
-├── .gitignore
-└── readme.md
+├── 📁 Book_Study
+│   └── 📁 Pandas
+│       ├── 📁 DataFrame
+│       │   └── 📄 01-Dataframe.ipynb
+│       └── 📁 Series
+│           └── 📄 01-Series.ipynb
+├── 📁 heart_disease
+│   ├── 📁 data
+│   │   ├── 📄 heart.csv
+│   │   └── 📄 heart_clean.csv
+│   ├── 📁 notebooks
+│   │   ├── 📄 analysis.ipynb
+│   │   └── 📄 cleaning.ipynb
+│   ├── 📁 src
+│   │   └── 🐍 cleaning.py
+│   └── 📝 README.md
+└── 📁 salary_analysis
+    ├── 📁 dashboard
+    │   ├── 📄 Salary_Dashboard.pbix
+    │   ├── 📕 Salary_Dashboard.pdf
+    │   └── 🖼️ dashboard_preview.png
+    ├── 📁 data
+    │   ├── 📄 salaries.csv
+    │   ├── ⚙️ salaries.json
+    │   └── 📄 salaries_cleaned.csv
+    ├── 📁 notebooks
+    │   ├── 📄 data.ipynb
+    │   ├── 📄 data_cleaning.ipynb
+    │   └── 📄 visualization.ipynb
+    ├── 📁 src
+    │   ├── 🐍 cleaning_function.py
+    │   ├── 🐍 converters.py
+    │   ├── 🐍 fetch_rates.py
+    │   └── 🐍 get_rates.py
+    ├── ⚙️ .gitignore
+    └── 📝 readme.md
 ```
