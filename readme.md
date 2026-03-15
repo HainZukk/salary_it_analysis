@@ -83,8 +83,6 @@ Este análisis se basa en un dataset específico y puede contener sesgos relacio
 * Análisis temporal de la evolución salarial.
 * Segmentación más detallada por tecnologías específicas.
 
-## Estructura del proyecto
-
 ## Estructura del Proyecto
 
 ```text
